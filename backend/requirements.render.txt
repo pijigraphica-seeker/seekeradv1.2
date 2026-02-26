@@ -10,4 +10,3 @@ python-multipart>=0.0.9
 requests>=2.31
 stripe>=12
 resend>=2
-emergentintegrations==0.1.0
